@@ -8,6 +8,8 @@
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=com.github.lahresdev%3Akotlin-gradle-single-module&metric=coverage)](https://sonarcloud.io/dashboard?id=com.github.lahresdev%3Akotlin-gradle-single-module)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=com.github.lahresdev%3Akotlin-gradle-single-module&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=com.github.lahresdev%3Akotlin-gradle-single-module)
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Lahres-Dev/kotlin-gradle-single-module)
+
 ## Introduction
 This repository serves as template for kotlin projects which use gradle as build tool. 
 
